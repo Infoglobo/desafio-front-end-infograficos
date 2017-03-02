@@ -30,7 +30,7 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 * Dúvida? Entre em contato por email: mateus.santos@oglobo.com.br
 
 ## Arquivos
-- Layout [aqui](Layout)
+- Layout [aqui](Arquivos/Layout)
 - Imagens [aqui](Arquivos/Imagens)
 - JSONS [aqui](Arquivos/JSON)
 
