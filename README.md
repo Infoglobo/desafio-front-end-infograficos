@@ -27,7 +27,7 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 * Você está livre para escolher a estrutura de diretórios da aplicação 
 * Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio.
 * Os arquivos .json não podem ser alterados
-* Dúvida? Entre em contato por email: mateus.santos@oglobo.com.br
+* Dúvida? Entre em contato por email: daniel.lima@oglobo.com.br
 
 ## Arquivos
 - Layout [aqui](Arquivos/Layout)
@@ -38,6 +38,6 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 - Fork esse projeto
 - Coloque seu projeto no repositório
 - Escreva no arquivo README.md as instruções para rodar o mesmo 
-- Envie o link do repositório para mateus.santos@oglobo.com.br, com o assunto: TESTE - Front-End O Globo
+- Envie o link do repositório para daniel.lima@oglobo.com.br, com o assunto: TESTE - Front-End O Globo
 
 ## Boa sorte!
